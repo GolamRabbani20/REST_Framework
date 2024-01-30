@@ -1,0 +1,15 @@
+User name: rabbani
+PW : cse@123456
+
+User Name: rabbani23
+PW: python@2023
+
+#By Serialize process we can RETRIVE data from database to User 
+#By Deserialize process we can INSERT/UPDATE/DELETE Data to the database from User
+
+=> GET method is used for RETRIEVE data from database to User
+=> POST method is used for INSERT data in database from user
+=> PUT method is used to FULL/PARTIAL Update 
+=> PATCH method is used for PARTIAL Update 
+
+#Update-1.1-->Update-1.2-->Update-1.3-->Update-1.4-->LastUpdate-1.5
